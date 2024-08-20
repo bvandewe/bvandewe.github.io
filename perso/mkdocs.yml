@@ -1,0 +1,14 @@
+site_name: My Personal Website
+site_url: https://bvandewe.github.io
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
