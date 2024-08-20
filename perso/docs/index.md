@@ -1,6 +1,12 @@
 # Welcome to My Personal Website
 
-Hello! I'm Bruno van de Werve, a Digital Explorer. Welcome to my personal website where you can learn more about me and my projects.
+<div class="image-container">
+    <img src="img/profile.png" alt="Profile Picture" class="centered-image">
+</div>
+
+Hello! I'm Bruno van de Werve, a Digital Explorer. 
+
+Welcome to my personal website where you can learn more about me and my projects.
 
 ## Quick Links
 

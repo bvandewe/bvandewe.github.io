@@ -1,13 +1,26 @@
-site_name: My Personal Website
+site_name: Bruno van de Werve
 site_url: https://bvandewe.github.io
 theme:
   name: material
+  logo: img/profile.png
+  palette:
+    primary: 'indigo'
+    accent: 'orange'
+  features:
+    - search.highlight
+    - search.share
+  hide:
+    - navigation.top
 
 nav:
   - Home: index.md
   - About: about.md
   - Projects: projects.md
   - Contact: contact.md
+
+
+extra_css:
+  - styles.css
 
 markdown_extensions:
   - toc:
